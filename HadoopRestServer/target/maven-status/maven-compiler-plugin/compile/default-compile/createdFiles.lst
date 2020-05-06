@@ -1,0 +1,7 @@
+ac/at/ju/databaseDesign/DatabaseConnection.class
+ac/at/ju/configuration/ApplicationConfig.class
+ac/at/ju/configuration/RestResource.class
+ac/at/ju/configuration/LogGeneration.class
+ac/at/ju/databaseDesign/HadoopJSONServer.class
+ac/at/ju/databaseDesign/StringConversion.class
+ac/at/ju/configuration/Configuration.class

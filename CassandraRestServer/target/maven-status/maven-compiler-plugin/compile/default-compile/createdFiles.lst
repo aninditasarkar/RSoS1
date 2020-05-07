@@ -1,0 +1,13 @@
+ac/at/ju/storageUnit/Configuration.class
+ac/at/ju/cassandraView/JSONViewTable.class
+ac/at/ju/cassandraDeletion/DeletionCondition.class
+ac/at/ju/schemaDesign/SchemaJSONExtraction.class
+ac/at/ju/storageUnit/DatasetEntry.class
+ac/at/ju/informationCollections/DatasetJSONExtraction.class
+ac/at/ju/cassandraDeletion/DeletionValue.class
+ac/at/ju/storageUnit/CassandraConnector.class
+ac/at/ju/cassandraView/ViewTable.class
+ac/at/ju/schemaDesign/CassandraHandling.class
+ac/at/ju/informationCollections/InsertDataset.class
+ac/at/ju/storageUnit/LogGeneration.class
+ac/at/ju/rest/CassandraService.class
